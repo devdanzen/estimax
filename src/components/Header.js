@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import Link from 'next/link';
 import Button from './Button';
 
 export default function Header() {
@@ -19,9 +20,9 @@ export default function Header() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex items-center">
-            <a href="/" className="font-title text-2xl font-bold gradient-text">
+            <Link href="/" className="font-title text-2xl font-bold gradient-text">
               Estimax
-            </a>
+            </Link>
           </div>
 
           {/* Desktop Navigation */}
