@@ -1,0 +1,36 @@
+{
+  "name": "estimax",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "lint:fix": "eslint \"src/**/*.{js,jsx}\" --fix"
+  },
+  "dependencies": {
+    "@vercel/postgres": "^0.10.0",
+    "dayjs": "^1.11.18",
+    "dotenv": "^17.2.2",
+    "drizzle-orm": "^0.44.5",
+    "exceljs": "^4.4.0",
+    "framer-motion": "^12.23.12",
+    "groq-sdk": "^0.32.0",
+    "next": "15.5.2",
+    "pdf-parse-new": "^1.4.1",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-dropzone": "^14.3.8",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "drizzle-kit": "^0.31.4",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.2",
+    "tailwindcss": "^4"
+  },
+  "packageManager": "pnpm@10.14.0+sha512.ad27a79641b49c3e481a16a805baa71817a04bbe06a38d17e60e2eaee83f6a146c6a688125f5792e48dd5ba30e7da52a5cda4c3992b9ccf333f9ce223af84748"
+}
