@@ -8,7 +8,7 @@ export default function FinalCTA() {
         <div className="max-w-4xl mx-auto text-center">
           {/* Main Headline */}
           <h2 className="text-4xl md:text-6xl font-bold" style={{marginBottom: '3rem'}}>
-            Let's TRY!
+            Let&apos;s TRY!
           </h2>
 
           {/* Subheadline */}

@@ -63,7 +63,7 @@ export default function Roadmap() {
       <div className="container">
         <div className="text-center">
           <h2 className="text-4xl md:text-5xl font-bold" style={{marginBottom: '3rem'}}>
-            What's next?
+            What&apos;s next?
           </h2>
           <div className="flex justify-center" style={{marginBottom: '4rem'}}>
             <p className="text-xl md:text-2xl text-gray-600 max-w-4xl text-center leading-relaxed">
