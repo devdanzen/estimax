@@ -304,9 +304,8 @@ For a medium-sized contractor processing 20 quotations/month:
 ## 👥 Team
 
 ### Core Contributors
-- **[Your Name]** - Full Stack Developer
-- **[Team Member]** - AI/ML Engineer
-- **[Team Member]** - Database Architect
+- **[Reza]** - Business
+- **[Danish Rafie Al Rasyad]** - Engineer
 
 ### Acknowledgments
 - Groq for AI infrastructure
@@ -325,7 +324,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Email**: team@estimax.com
 - **Website**: [estimax.vercel.app](https://estimax.vercel.app)
-- **GitHub**: [github.com/estimax](https://github.com/estimax)
+- **GitHub**: [github.com/estimax](https://github.com/devdanzen/estimax)
 
 ---
 
